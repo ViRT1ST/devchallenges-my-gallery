@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">CHALLENGE #05: MY GALLERY</h1>   
 
 <div align="center">
