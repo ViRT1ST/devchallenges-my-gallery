@@ -16,7 +16,7 @@
 
 ## Screenshot
 
-![screenshot](img/screenshot.png)
+![screenshot](img/screenshot1.png)
 
 ## Built With
 
